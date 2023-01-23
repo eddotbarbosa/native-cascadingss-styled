@@ -1,6 +1,6 @@
 # Native Cascadingss Styled
 
-A grid system based on flexbox made with styled components and typescript.
+Cascadingss styled component made to use in react native projects..
 
 ## Related Repositories
 [Cascadingss](https://github.com/eddotbarbosa/cascadingss)
