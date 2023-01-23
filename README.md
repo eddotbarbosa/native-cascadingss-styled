@@ -7,7 +7,8 @@ A grid system based on flexbox made with styled components and typescript.
 
 ## Technologies
 * typescript
-* reactjs
+* expo
+* react native
 * styled components
 
 ## Getting Started
