@@ -3,7 +3,7 @@
 Cascadingss styled component made to use in react native projects..
 
 ## Related Repositories
-[Cascadingss](https://github.com/eddotbarbosa/cascadingss)
+[Cascadingss Styled](https://github.com/eddotbarbosa/cascadingss-styled)
 
 ## Technologies
 * typescript
